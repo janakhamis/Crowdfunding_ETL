@@ -63,7 +63,22 @@ pip install -r requirements.txt
 - ERD Relationship.png
 - crowdfunding_db_schema.sql
 
-
+## How to Run it 
+1. Open the cloned file in the Visual Studio Code:
+   1. Go to file > Open Folder and navigate to the folder where you cloned the repository.
+   2. Select the folder to open in VS code.
+2. Run the Jupyter Notebook:
+     1. Open the notebook file (ETL_Mini_Project_JKhamis_PSchaefer_JLau.ipynb) in VS code or Jupyter.
+     2. Run the cells to perform the Analysis.
+3. Open pgAdmin:
+    1. Create a database crowdfunding_db.
+    2. Run the crowdfunding_db_schema.sql in the database created above.
+    3. Import the respective csv files into the tables.
+  
+## Group Members:
+- Jana Khamis
+- Paul Schaefer
+- King Yuet Lau (Janette)
 
 
 
